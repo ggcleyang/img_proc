@@ -1,0 +1,3 @@
+D:/libtest/img_proc/cmake-build-release/CMakeFiles/img_pro.dir
+D:/libtest/img_proc/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/libtest/img_proc/cmake-build-release/CMakeFiles/rebuild_cache.dir

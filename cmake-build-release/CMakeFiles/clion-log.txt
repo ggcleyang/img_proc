@@ -1,0 +1,4 @@
+"D:\Program files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\libtest\img_proc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/libtest/img_proc/cmake-build-release
